@@ -1,0 +1,16 @@
+footer{
+    background-color: rgba(241, 11, 11, 0.26);
+}
+header{
+    
+    background: rgba(238, 14, 107, 0.527);
+}body{
+    background: rgba(9, 224, 56, 0.562);
+    
+}p{
+    color: rgb(61, 25, 90);
+}
+h1{
+    text-shadow: 2px 2px;
+    text-align: center;
+}
